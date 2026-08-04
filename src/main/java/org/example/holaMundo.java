@@ -7,7 +7,6 @@ public class holaMundo {
         System.out.println(operacionesMatematicas.operacionSuma(11,5));
         System.out.println(operacionesMatematicas.operacionResta(50,5));
         System.out.println(operacionesMatematicas.operacionMultiplicacion(11,5));
-        System.out.println(operacionesMatematicas.operacionDivision(120,5));
-
+        System.out.println(operacionesMatematicas.operacionDivision(150,5));
     }
 }
